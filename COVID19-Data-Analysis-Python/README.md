@@ -30,7 +30,8 @@ The goal is to extract meaningful insights that can support public awareness and
 - Python  
 - Pandas  
 - NumPy  
-- Matplotlib  
+- Matplotlib
+- Seaborn 
 - Jupyter Notebook  
 
 ---
