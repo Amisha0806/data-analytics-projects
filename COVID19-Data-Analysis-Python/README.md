@@ -1,40 +1,40 @@
-# COVID-19 Data Analysis using Python
+# 🦠 COVID-19 Data Analysis | Python 
 
-## 📌 Project Overview
-This project analyzes global COVID-19 data to understand trends in confirmed cases, deaths, and recoveries over time.  
-The goal is to extract meaningful insights that can support public awareness and data-driven decision making during health crises.
+## 🔍 Overview
 
----
-
-## 🎯 Objectives
-- Analyze global COVID-19 case trends
-- Compare confirmed cases, deaths, and recoveries
-- Identify highly affected countries and time periods
-- Visualize patterns using Python charts
+This project analyzes **COVID-19 pandemic data** using **Python and Jupyter Notebook** to identify trends in **confirmed cases, deaths, and recoveries** through **exploratory data analysis (EDA)** and visualizations.
 
 ---
 
-## 📊 Dataset
-- Global COVID-19 dataset containing:
-  - Date
-  - Country / Region
-  - Confirmed Cases
-  - Deaths
-  - Recovered Cases
+## 🎯 Key Focus
 
-📌 Dataset is stored in the `data/` folder.
+* Time-series analysis of COVID-19 cases
+* Case growth, recovery, and mortality trends
+* Country-wise comparison
+* Data cleaning and preprocessing
 
 ---
 
-## 🛠 Tools & Technologies
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib
-- Seaborn 
-- Jupyter Notebook  
+## 📊 Techniques Used
+
+* Data cleaning & transformation
+* Aggregation and time-based analysis
+* Visual trend analysis using charts
 
 ---
 
+## 🛠 Tools & Skills (ATS Keywords)
 
+**Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Data Visualization, Time Series Analysis**
+
+---
+
+## 📌 Impact
+
+* Simplified complex pandemic data into actionable insights
+* Demonstrated strong Python-based data analysis and visualization skills
+
+---
+
+📌 **Author:** Amisha Gawade
 
