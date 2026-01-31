@@ -1,16 +1,46 @@
+# 🐦 Twitter Analytics Dashboard | Data Analytics
 
-# 📊 Twitter Analytics Dashboard | Power BI
+## 🔍 Overview
 
-* Designed an interactive **Twitter Analytics Dashboard** using **Power BI**
-* Analyzed tweet performance by **weekday trends** (tweets, impressions, media views)
-* Compared **media engagement vs media views** to understand content effectiveness
-* Tracked key engagement metrics: **likes, retweets, URL clicks, profile clicks, hashtag clicks**
-* Identified **high-performing tweets** based on URL clicks and engagement
-* Used **KPIs** to summarize total tweets, impressions, and media views
-* Implemented **filters (Month-wise)** for dynamic analysis
+This project analyzes **Twitter performance metrics** to understand **engagement trends, impressions, media views, and user interaction patterns**.
+An interactive dashboard was created to identify **high-engagement days and content performance**.
 
-**Tools Used:** Power BI, Excel
-**Skills:** Data Modeling, DAX, Data Visualization, Social Media Analytics
+---
+
+## 🎯 Key Analysis
+
+* Tweets & impressions by weekday
+* Media engagement vs media views
+* Retweets, likes, and URL clicks analysis
+* Hashtag and profile click behavior
+
+---
+
+## 📊 KPIs
+
+* Total Tweets
+* Total Impressions
+* Media Views
+* Retweets & Likes
+* URL & Profile Clicks
+
+---
+
+## 🛠 Tools & Skills (ATS Keywords)
+
+**Data Analytics, Data Visualization, Dashboard Design, KPI Analysis, Social Media Analytics, Engagement Analysis, Trend Analysis, Business Intelligence**
+
+---
+
+## 📌 Impact
+
+* Identified peak engagement days
+* Revealed content types driving higher interactions
+* Enabled data-driven social media strategy insights
+
+---
+
+📌 **Author:** Amisha Gawade
 
 
 
