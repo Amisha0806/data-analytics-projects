@@ -1,4 +1,4 @@
-# 🐦 Twitter Analytics Dashboard | Data Analytics
+#  Twitter Analytics Dashboard | Data Analytics
 
 ## 🔍 Overview
 
@@ -26,8 +26,7 @@ An interactive dashboard was created to identify **high-engagement days and cont
 
 ---
 
-## 🛠 Tools & Skills (ATS Keywords)
-
+## 🛠 Tools & Skills 
 **Data Analytics, Data Visualization, Dashboard Design, KPI Analysis, Social Media Analytics, Engagement Analysis, Trend Analysis, Business Intelligence**
 
 ---
