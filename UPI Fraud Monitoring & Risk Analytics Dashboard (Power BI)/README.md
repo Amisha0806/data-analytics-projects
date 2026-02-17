@@ -120,8 +120,7 @@ Screenshots of all dashboard pages are included inside the `/dashboard_images` f
 
 ## 👩‍💻 Author
 **Amisha Gawade**  
-MCA Student | Data Analytics Enthusiast  
-Skills: Power BI, Python, SQL, Data Visualization, Dashboard Design  
+  Skills: Power BI, Python, SQL, Data Visualization, Dashboard Design  
 
 ---
 
