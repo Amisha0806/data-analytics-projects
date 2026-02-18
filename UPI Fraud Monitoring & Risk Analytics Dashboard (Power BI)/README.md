@@ -108,13 +108,6 @@ This dashboard can support real-world applications such as:
 ## 📷 Dashboard Preview
 Screenshots of all dashboard pages are included inside the `/dashboard_images` folder.
 
----
-
-## 📌 Future Enhancements
-- Integration with real-time streaming fraud data  
-- Machine Learning fraud prediction model  
-- Drill-through investigation reports  
-- Automated fraud alert system  
 
 ---
 
